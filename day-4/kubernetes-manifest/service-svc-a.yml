@@ -13,5 +13,5 @@ spec:
     targetPort: 3001
   selector:
     app: service-a-deployment
-  type: LoadBalancer
+  type: NodePort
 
