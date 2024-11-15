@@ -17,4 +17,4 @@ spec:
       app: a-service
   namespaceSelector:
     matchNames:
-      - dev
+      - default
