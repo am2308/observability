@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 # Slack webhook URL
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = ""
 
 def send_to_slack(message):
     """Send a message to Slack"""
