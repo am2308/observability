@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 # Slack webhook URL
-SLACK_WEBHOOK_URL = ""
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
 
 # EKS cluster details
 EKS_CLUSTER_NAME = "amcdemo"
